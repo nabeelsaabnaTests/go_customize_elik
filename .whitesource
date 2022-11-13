@@ -1,3 +1,7 @@
 {
-  "settingsInheritedFrom": "elikkatzgit/whitesource-config@master"
+  "settingsInheritedFrom": "elikkatzgit/whitesource-config@master",
+  "remediateSettings": {
+    "enableRenovate": true,
+      "labels": ["renovate-findings"]
+      }
 }
